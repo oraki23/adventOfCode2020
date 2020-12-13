@@ -1,6 +1,6 @@
 package com.advco;
 
-public class Day14 {
+public class Day16 {
     public static void main(String[] args) {
         partOne();
     }
